@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1781487845544,
+      "tag": "0000_public_zarda",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1781487989475,
+      "tag": "0001_low_owl",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1781490286974,
+      "tag": "0002_spicy_paibok",
+      "breakpoints": true
+    }
+  ]
+}
